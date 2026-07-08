@@ -14,9 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/karan-bavaliya/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/karan-bavaliya/DSA/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/karan-bavaliya/DSA/tree/master/0541-reverse-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/karan-bavaliya/DSA/tree/master/0541-reverse-string-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/karan-bavaliya/DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/karan-bavaliya/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
