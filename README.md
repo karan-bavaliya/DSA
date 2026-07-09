@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/karan-bavaliya/DSA/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/karan-bavaliya/DSA/tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,9 +31,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/karan-bavaliya/DSA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/karan-bavaliya/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/karan-bavaliya/DSA/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
