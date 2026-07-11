@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/karan-bavaliya/DSA/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/karan-bavaliya/DSA/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/karan-bavaliya/DSA/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/karan-bavaliya/DSA/tree/master/0912-sort-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/karan-bavaliya/DSA/tree/master/0027-remove-element) |
 | [0541-reverse-string-ii](https://github.com/karan-bavaliya/DSA/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
