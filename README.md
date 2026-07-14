@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/karan-bavaliya/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/karan-bavaliya/DSA/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/karan-bavaliya/DSA/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/karan-bavaliya/DSA/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/karan-bavaliya/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/karan-bavaliya/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/karan-bavaliya/DSA/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/karan-bavaliya/DSA/tree/master/0541-reverse-string-ii) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/karan-bavaliya/DSA/tree/master/0231-power-of-two) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/karan-bavaliya/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
